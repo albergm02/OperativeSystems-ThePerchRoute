@@ -1,0 +1,3 @@
+Error en la eliminacion de la memoria compartida del comedor.:6:Controlador no válido.
+
+Biblioteca cargada en DllMain (CP850).

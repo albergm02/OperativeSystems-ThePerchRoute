@@ -1,0 +1,6 @@
+﻿  filosofar2.cpp
+C:\Users\alber\Desktop\sistemas_operativos\FILOSOFAR2\filosofar2\filosofar2.h(16,21): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 3 tiene el tipo 'LPVOID'
+  (compilando archivo de origen "filosofar2.cpp")
+  
+C:\Users\alber\Desktop\sistemas_operativos\FILOSOFAR2\filosofar2\filosofar2.cpp(690,23): warning C4244: 'argumento': conversión de 'ULONGLONG' a 'unsigned int'; posible pérdida de datos
+  filosofar2.vcxproj -> C:\Users\alber\Desktop\sistemas_operativos\FILOSOFAR2\Debug\filosofar2.exe
