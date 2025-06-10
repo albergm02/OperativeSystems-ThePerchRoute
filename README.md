@@ -1,8 +1,8 @@
-# 🧠🍝 Filosofos: The Dining Philosophers Problem
+# 🧠🍝 Filosofos: the perch route.
 
 ![Project Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
-**Filosofos** is a C++ console application developed with **Visual Studio Code**, aiming to demonstrate the classic **Dining Philosophers Problem** — a fundamental example of synchronization issues in concurrent processing. This project provides both educational insight and a practical implementation of thread management and mutual exclusion in operating systems.
+**Filosofos** is a C++ console application developed with **Visual Code**, aiming to demonstrate the classic **Dining Philosophers Problem, the Barber and more.** — a fundamental example of synchronization issues in concurrent processing. This project provides both educational insight and a practical implementation of thread management and mutual exclusion in operating systems.
 
 ---
 
@@ -19,8 +19,7 @@ This project simulates these behaviors and explores various strategies to avoid 
 - ✅ Model the philosophers and forks using threads and mutexes.
 - ✅ Avoid deadlocks using proper resource allocation strategies.
 - ✅ Ensure fair access to resources, avoiding starvation.
-- ✅ Provide a clear, console-based visualization of the states: **Thinking**, **Hungry**, **Eating**.
-- ✅ Use gifs and diagrams for better understanding (see below).
+- ✅ Provide a clear, console-based visualization.
 
 ---
 
@@ -36,17 +35,8 @@ This project simulates these behaviors and explores various strategies to avoid 
 
 ---
 
-## 📦 How to Build and Run
-
 ### 🔧 Prerequisites
 
-- C++17 or newer
-- g++ or any C++ compiler
-- CMake (optional)
-- Terminal (Linux/Mac) or PowerShell (Windows)
-
-### 🚀 Build and Run (with g++)
-
-```bash
-g++ -std=c++17 -pthread -o filosofos main.cpp
-./filosofos
+- No character mode on the project implementation.
+- Windows, C++ above 17.
+- Win32 environment execution.
