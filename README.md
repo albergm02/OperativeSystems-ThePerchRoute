@@ -30,7 +30,7 @@ This project simulates these behaviors and explores various strategies to avoid 
 | Language          | C++                |
 | IDE               | Visual Studio Code |
 | Threads           | `std::thread`      |
-| Synchronization   | `std::mutex`, `std::unique_lock` |
+| Synchronization   | `std::mutex`, `CRITICAL_SECTION` `std::counting_semaphore` `CreateEvent` |
 | Build System      | CMake / g++        |
 
 ---
