@@ -28,9 +28,9 @@ This project simulates these behaviors and explores various strategies to avoid 
 | Component        | Technology         |
 |------------------|--------------------|
 | Language          | C++                |
-| IDE               | Visual Studio Code |
+| IDE               | Visual Code |
 | Threads           | `std::thread`      |
-| Synchronization   | `std::mutex`, `CRITICAL_SECTION` `std::counting_semaphore` `CreateEvent` |
+| Synchronization   | `std::mutex`, `CRITICAL_SECTION`, `std::counting_semaphore`, `CreateEvent` |
 | Build System      | CMake / g++        |
 
 ---
